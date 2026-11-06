@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-multi-cloud",
+  "name": "@latheefwac/strapi-provider-upload-multi-cloud",
   "version": "1.0.2",
   "description": "Production-oriented Strapi 5 upload provider with unified AWS S3, Google Cloud Storage and Azure Blob Storage drivers, signed URLs, atomic collision-safe naming and HLS-aware storage.",
   "author": "Vinod",
@@ -65,5 +65,16 @@
   },
   "engines": {
     "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Latheefwac/strapi-provider-upload-multi-cloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Latheefwac/strapi-provider-upload-multi-cloud/issues"
+  },
+  "homepage": "https://github.com/Latheefwac/strapi-provider-upload-multi-cloud#readme",
+  "publishConfig": {
+    "access": "public"
   }
 }
