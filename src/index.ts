@@ -1,5 +1,5 @@
 /**
- * strapi-provider-upload-multi-cloud
+ * strapi-provider-upload-multi-cloud-storage
  *
  * A Strapi 5 upload provider with a unified interface over AWS S3, Google Cloud
  * Storage and Azure Blob Storage.

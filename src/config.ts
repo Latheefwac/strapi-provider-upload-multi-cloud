@@ -206,7 +206,7 @@ export function validateConfig(raw: unknown): ProviderOptions {
       })
       .join('\n');
     throw new ConfigError(
-      `Invalid upload provider configuration (strapi-provider-upload-multi-cloud):\n${details}`,
+      `Invalid upload provider configuration (strapi-provider-upload-multi-cloud-storage):\n${details}`,
     );
   }
   return result.data as ProviderOptions;
