@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-multi-cloud",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Production-oriented Strapi 5 upload provider with unified AWS S3, Google Cloud Storage and Azure Blob Storage drivers, signed URLs, atomic collision-safe naming and HLS-aware storage.",
   "author": "Vinod",
   "main": "dist/index.js",
